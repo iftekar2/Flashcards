@@ -1,6 +1,6 @@
 # Flashcards
 
-![Screenshot 2023-03-06 171432](https://user-images.githubusercontent.com/30635422/223251188-a96e0852-8e44-452c-a0dc-b4786df99f3f.png)
+![Screenshot 2023-03-14 192549](https://user-images.githubusercontent.com/30635422/225164096-3ab94544-ab0a-4f03-b388-3d7d16b8b7f8.png)
 
 Submitted by: **Iftekar Hossain**
 
@@ -13,5 +13,5 @@ Time spent: **3** hours spent in total
 Here's a walkthrough of implemented features:
 
 
-https://user-images.githubusercontent.com/30635422/223256966-711b9874-6de4-4333-a80f-3f88349bb162.mp4
 
+https://user-images.githubusercontent.com/30635422/225164124-610c607f-ad18-4f2b-a501-10db825879c1.mp4
