@@ -1,0 +1,44 @@
+{
+    "parts": [
+        {
+            "question": "Which is the smallest planet within our solar system?", 
+            "answer": "Mercury"
+        },
+        {
+            "question": "The moon called Titan orbits which planet?", 
+            "answer": "Saturn"
+        }, 
+        {
+            "question": "Which planet is larger, Neptune or Saturn?", 
+            "answer": "Saturn"
+        }, 
+        {
+            "question": "There have been more missions to this planet versus any other planet", 
+            "answer": "Mars"
+        }, 
+        {
+            "question": "What protects Earth from meteoroids and radiation from the sun?", 
+            "answer": "It's Atmosphere"
+        }, 
+        {
+            "question": "How many of our planets can be seen without a telescope?", 
+            "answer": "5"
+        }, 
+        {
+            "question": "Which planet is closest in size to Earth?", 
+            "answer": "Venus"
+        }, 
+        { 
+            "question": "Which planet has the most moons?", 
+            "answer": "Saturn"
+        }, 
+        {
+            "question": "Which planets have no moons?", 
+            "answer": "Mercury and Venus"
+        },
+        {
+            "question": "Which is the oldest planet in our solar system?", 
+            "answer": "Jupiter"
+        }
+    ]
+}
